@@ -1,0 +1,63 @@
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:0:basic space 1.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:0:basic space 1 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:0:basic space 1.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:2:400x400 grid.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:2:400x400 grid is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:2:400x400 grid.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:4:1000x1000 grid.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:4:1000x1000 grid is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:4:1000x1000 grid.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:7:3 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:7:3 rooms is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:7:3 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:9:basic - divide into 2 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:9:basic - divide into 2 rooms is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:9:basic - divide into 2 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:10:basic - divide into 2 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:10:basic - divide into 2 rooms is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:10:basic - divide into 2 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:12:basic - divide into 2 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:12:basic - divide into 2 rooms is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:12:basic - divide into 2 rooms.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:13:size test last - divide 2 rooms in 400 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:13:size test last - divide 2 rooms in 400 x 400 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:13:size test last - divide 2 rooms in 400 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:14:size test last - divide 7 rooms in 400 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:14:size test last - divide 7 rooms in 400 x 400 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:14:size test last - divide 7 rooms in 400 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:16:size test nonlast - divide 7 rooms in 400 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:16:size test nonlast - divide 7 rooms in 400 x 400 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:16:size test nonlast - divide 7 rooms in 400 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:18:size test nonlast - divide 3 rooms in 900 x 500.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:18:size test nonlast - divide 3 rooms in 900 x 500 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:18:size test nonlast - divide 3 rooms in 900 x 500.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:20:size test nonlast - divide 4 rooms in 500 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:20:size test nonlast - divide 4 rooms in 500 x 400 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:20:size test nonlast - divide 4 rooms in 500 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:22:size test nonlast - divide 2 rooms in 900 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:22:size test nonlast - divide 2 rooms in 900 x 400 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:22:size test nonlast - divide 2 rooms in 900 x 400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:24:size test nonlast - divide 3 rooms in 900 x 900.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:24:size test nonlast - divide 3 rooms in 900 x 900 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:24:size test nonlast - divide 3 rooms in 900 x 900.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:26:test divide 5 rooms coordinate properties 600x600.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:26:test divide 5 rooms coordinate properties 600x600 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:26:test divide 5 rooms coordinate properties 600x600.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:27:test divide 7 rooms coordinate properties 400x400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:27:test divide 7 rooms coordinate properties 400x400 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:27:test divide 7 rooms coordinate properties 400x400.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:30:test divide 6 rooms coordinate properties 900x600.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:30:test divide 6 rooms coordinate properties 900x600 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:30:test divide 6 rooms coordinate properties 900x600.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:32:test divide 2 rooms coordinate properties 900x500.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:32:test divide 2 rooms coordinate properties 900x500 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:32:test divide 2 rooms coordinate properties 900x500.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:34:test divide 3 rooms coordinate properties 700x800.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:34:test divide 3 rooms coordinate properties 700x800 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:34:test divide 3 rooms coordinate properties 700x800.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:35:test divide 6 rooms coordinate properties 800x1000.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:35:test divide 6 rooms coordinate properties 800x1000 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:35:test divide 6 rooms coordinate properties 800x1000.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Start test suites:38:label test divide 4 rooms coordinate properties 800x1000.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: Test suites:38:label test divide 4 rooms coordinate properties 800x1000 is successful.
+2023-05-15T21:55:39+00:00 dhcp-vl2041-4757.eduroam.cornell.edu#01 I: End test suites:38:label test divide 4 rooms coordinate properties 800x1000.

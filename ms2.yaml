@@ -1,0 +1,29 @@
+---
+# Members of group.
+group:
+ - name: Brittanie Chen
+    netid: bc525
+  - name: Jessie Zhang
+    netid: jz553
+  - name: Jiayu Su
+    netid: js3498
+  - name: Tony Liu
+    netid: twl63
+# Your PM.
+pm:
+  name: Mia Daniels
+  netid: whd56
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Architectural Plan Generator"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/jz553/Cs3110-Final-Project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+ Our project is an architecture plan generator. Inputting your desired length
+ and width for the architectural floor plan, our system can output different
+ types of architectural floor plans, with varying size of rooms and hallways. 
+ Doors and windows are also included in this floor plan. 

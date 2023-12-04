@@ -1,0 +1,6 @@
+description = ""
+requires = "cairo2 graphics"
+archive(byte) = "makeroom.cma"
+archive(native) = "makeroom.cmxa"
+plugin(byte) = "makeroom.cma"
+plugin(native) = "makeroom.cmxs"

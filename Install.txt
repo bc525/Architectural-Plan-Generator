@@ -1,0 +1,17 @@
+To be able to run the program:
+After downloading the file, cd into the folder and:
+ 
+  1.Install the required dependencies in terminal:
+    - opam install cairo2
+    - opam install graphics
+    - opam install lablgtk
+
+  2. Run the program!
+    - type in : dune build
+    - type in: make run
+
+  3. Follow the prompts that the terminal says
+
+  4. The generated plans are in the folder. 
+
+  Done!

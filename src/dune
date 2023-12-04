@@ -1,0 +1,4 @@
+(library
+ (name makeroom)
+ (public_name Makeroom)
+ (libraries graphics cairo2))

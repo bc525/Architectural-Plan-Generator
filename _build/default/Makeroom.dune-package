@@ -1,0 +1,66 @@
+(lang dune 3.6)
+(name Makeroom)
+(sections (lib .) (libexec .) (doc ../../doc/Makeroom))
+(files
+ (lib
+  (META
+   draw.ml
+   draw.mli
+   dune-package
+   labels.ml
+   labels.mli
+   makeroom.a
+   makeroom.cma
+   makeroom.cmi
+   makeroom.cmt
+   makeroom.cmx
+   makeroom.cmxa
+   makeroom.ml
+   makeroom__Draw.cmi
+   makeroom__Draw.cmt
+   makeroom__Draw.cmti
+   makeroom__Draw.cmx
+   makeroom__Labels.cmi
+   makeroom__Labels.cmt
+   makeroom__Labels.cmti
+   makeroom__Labels.cmx
+   makeroom__Roomdiv.cmi
+   makeroom__Roomdiv.cmt
+   makeroom__Roomdiv.cmti
+   makeroom__Roomdiv.cmx
+   opam
+   roomdiv.ml
+   roomdiv.mli))
+ (libexec (makeroom.cmxs))
+ (doc (README.md)))
+(library
+ (name Makeroom)
+ (kind normal)
+ (archives (byte makeroom.cma) (native makeroom.cmxa))
+ (plugins (byte makeroom.cma) (native makeroom.cmxs))
+ (native_archives makeroom.a)
+ (requires graphics cairo2)
+ (main_module_name Makeroom)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Makeroom)
+   (modules
+    ((name Draw) (obj_name makeroom__Draw) (visibility public) (impl) (intf))
+    ((name Labels)
+     (obj_name makeroom__Labels)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Roomdiv)
+     (obj_name makeroom__Roomdiv)
+     (visibility public)
+     (impl)
+     (intf)))
+   (alias_module
+    (name Makeroom)
+    (obj_name makeroom)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))

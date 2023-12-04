@@ -1,0 +1,36 @@
+lib: [
+  "_build/install/default/lib/Makeroom/META"
+  "_build/install/default/lib/Makeroom/draw.ml"
+  "_build/install/default/lib/Makeroom/draw.mli"
+  "_build/install/default/lib/Makeroom/dune-package"
+  "_build/install/default/lib/Makeroom/labels.ml"
+  "_build/install/default/lib/Makeroom/labels.mli"
+  "_build/install/default/lib/Makeroom/makeroom.a"
+  "_build/install/default/lib/Makeroom/makeroom.cma"
+  "_build/install/default/lib/Makeroom/makeroom.cmi"
+  "_build/install/default/lib/Makeroom/makeroom.cmt"
+  "_build/install/default/lib/Makeroom/makeroom.cmx"
+  "_build/install/default/lib/Makeroom/makeroom.cmxa"
+  "_build/install/default/lib/Makeroom/makeroom.ml"
+  "_build/install/default/lib/Makeroom/makeroom__Draw.cmi"
+  "_build/install/default/lib/Makeroom/makeroom__Draw.cmt"
+  "_build/install/default/lib/Makeroom/makeroom__Draw.cmti"
+  "_build/install/default/lib/Makeroom/makeroom__Draw.cmx"
+  "_build/install/default/lib/Makeroom/makeroom__Labels.cmi"
+  "_build/install/default/lib/Makeroom/makeroom__Labels.cmt"
+  "_build/install/default/lib/Makeroom/makeroom__Labels.cmti"
+  "_build/install/default/lib/Makeroom/makeroom__Labels.cmx"
+  "_build/install/default/lib/Makeroom/makeroom__Roomdiv.cmi"
+  "_build/install/default/lib/Makeroom/makeroom__Roomdiv.cmt"
+  "_build/install/default/lib/Makeroom/makeroom__Roomdiv.cmti"
+  "_build/install/default/lib/Makeroom/makeroom__Roomdiv.cmx"
+  "_build/install/default/lib/Makeroom/opam"
+  "_build/install/default/lib/Makeroom/roomdiv.ml"
+  "_build/install/default/lib/Makeroom/roomdiv.mli"
+]
+libexec: [
+  "_build/install/default/lib/Makeroom/makeroom.cmxs"
+]
+doc: [
+  "_build/install/default/doc/Makeroom/README.md"
+]
